@@ -6,6 +6,7 @@ clock=pygame.time.Clock()
 
 # create the screen
 height = 800
+f = 0
 width = 700
 screen = pygame.display.set_mode((height, width))
 
